@@ -4,3 +4,5 @@
 
 Website builds from: https://github.com/jpforpalestine/jpforpalestine
 
+### Planning and Project board: https://github.com/orgs/jpforpalestine/projects/1
+
