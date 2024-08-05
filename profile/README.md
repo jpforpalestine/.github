@@ -4,5 +4,5 @@
 
 ### Website: https://jpforpalestine.github.io/jpforpalestine/
 
-### Projects and Planning: https://github.com/orgs/jpforpalestine/projects/1
+### Projects and Planning: https://github.com/orgs/jpforpalestine/projects/
 
