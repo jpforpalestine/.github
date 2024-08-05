@@ -2,5 +2,5 @@
 
 ### Website [WIP-2024-08-04]: https://jpforpalestine.github.io/jpforpalestine/
 
-### Planning and Project board: https://github.com/orgs/jpforpalestine/projects/1
+### Projects and Planning: https://github.com/orgs/jpforpalestine/projects/1
 
